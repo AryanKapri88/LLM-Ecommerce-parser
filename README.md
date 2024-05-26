@@ -1,6 +1,6 @@
 The developed API successfully extracted meaningful attributes from the HTML blocks and returned the information in JSON format. However, due to the constraints of using a low-end PC, the API throws an error when processing large HTML files like index.html due to the exceeding number of tokens. This issue can be addressed by preprocessing the HTML file using NLP libraries to tokenize and feed the model in chunks.
 
-**Sample Output**
+                                                          ## **Sample Output**
 
 The sample folder contains a small part of the index.html and its corresponding output. Due to the limitations of my low-end PC, it was not possible to process the entire index.html file within the expected time. The sample folder demonstrates the extraction process and the format of the output.
 
