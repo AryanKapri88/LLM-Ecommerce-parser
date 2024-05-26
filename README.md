@@ -4,11 +4,11 @@ The developed API successfully extracted meaningful attributes from the HTML blo
 
 The sample folder contains a small part of the index.html and its corresponding output. Due to the limitations of my low-end PC, it was not possible to process the entire index.html file within the expected time. The sample folder demonstrates the extraction process and the format of the output.
 
-                                                                        `sample.ipynb`: 
+                                                              `sample.ipynb`: 
 
 <img width="610" alt="11" src="https://github.com/AryanKapri88/LLM-ecommerce-parser/assets/110614822/e717a03b-7ec8-4584-aefb-07a9a7c1ae84">
 
-                                                                        `api_main.py`:
+                                                              `api_main.py`:
 
 <img width="593" alt="Capture" src="https://github.com/AryanKapri88/LLM-ecommerce-parser/assets/110614822/f5c348f4-f57a-48b4-9a08-a21d66d5d28b">
 
