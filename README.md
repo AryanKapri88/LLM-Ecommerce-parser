@@ -12,5 +12,4 @@ The sample folder contains a small part of the index.html and its corresponding 
 
 <img width="593" alt="Capture" src="https://github.com/AryanKapri88/LLM-ecommerce-parser/assets/110614822/f5c348f4-f57a-48b4-9a08-a21d66d5d28b">
 
-
-
+`Note:` The Llama 2 model was run locally on my machine, allowing for efficient processing despite hardware constraints. The model can be accessed from [Hugging Face](https://huggingface.co/TheBloke/Llama-2-7B-Chat-GGML).
