@@ -13,4 +13,4 @@ The sample folder contains a small part of the index.html and its corresponding 
 <img width="593" alt="Capture" src="https://github.com/AryanKapri88/LLM-ecommerce-parser/assets/110614822/f5c348f4-f57a-48b4-9a08-a21d66d5d28b">
 
 
-This project showcases my ability to apply advanced machine learning techniques to solve practical problems, despite hardware constraints and time limitations. The provided code and methodology offer a foundation for further enhancement and scalability.
+
